@@ -33,19 +33,189 @@ Plath, Sylvia. "The Applicant." 1962.
 Schedule
 --------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Set up, Poetry by Margaret Atwood and Sylvia Plath | &nbsp; |
-| 2 | Toni Morrison: _Jazz_ | pp. 1-114. |
-| 3 | Toni Morrison: _Jazz_ (cont.) | pp. 115-229. |
-| 4 | Jane Austen: _Pride and Prejudice_ | Chapters 1-35, pp. 1-174. |
-| 5 | Jane Austen: _Pride and Prejudice_ (cont.) | Chapters 36-61, pp. 175-334. |
-| 6 | Virginia Woolf: _Mrs. Dalloway_ | pp. 1-102, through "...that she did not like that man." |
-| 7 | Virginia Woolf: _Mrs. Dalloway_ (cont.) | pp. 102-192. |
-| 8 | Edith Wharton: _The House of Mirth_ | Book 1, pp. 1-189. |
-| 9 | Edith Wharton: _The House of Mirth_ (cont.) | Book 2, pp. 190-350. |
-| 10 | Sheri Reynolds: _The Rapture of Canaan_ | Entire book. |
-| 11 | Charlotte Brontë: _Jane Eyre_ | Chapters 1-22, pp. 1-251. |
-| 12 | Charlotte Brontë: _Jane Eyre_ (cont.) | Chapters 23-38, pp. 252-461. |
-| 13 | Alice Walker: _The Color Purple_ | Entire book. |
-| 14 | Sylvia Plath: _The Bell Jar_ | Entire book.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Set up, Poetry by Margaret Atwood and Sylvia Plath
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Toni Morrison: _Jazz_
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 1-114.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Toni Morrison: _Jazz_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 115-229.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Jane Austen: _Pride and Prejudice_
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 1-35, pp. 1-174.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Jane Austen: _Pride and Prejudice_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 36-61, pp. 175-334.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Virginia Woolf: _Mrs. Dalloway_
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 1-102, through "...that she did not like that man."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Virginia Woolf: _Mrs. Dalloway_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 102-192.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Edith Wharton: _The House of Mirth_
+{{< tdclose >}}
+{{< tdopen >}}
+Book 1, pp. 1-189.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Edith Wharton: _The House of Mirth_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Book 2, pp. 190-350.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Sheri Reynolds: _The Rapture of Canaan_
+{{< tdclose >}}
+{{< tdopen >}}
+Entire book.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Charlotte Brontë: _Jane Eyre_
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 1-22, pp. 1-251.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Charlotte Brontë: _Jane Eyre_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 23-38, pp. 252-461.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Alice Walker: _The Color Purple_
+{{< tdclose >}}
+{{< tdopen >}}
+Entire book.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Sylvia Plath: _The Bell Jar_
+{{< tdclose >}}
+{{< tdopen >}}
+Entire book.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

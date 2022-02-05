@@ -29,21 +29,191 @@ We adore these books (would probably drag them with us to a desert island), and 
 Calendar
 --------
 
-| SES # | TOPICS | EVENTS\* |
-| --- | --- | --- |
-| 1 | Set up, Poetry by Margaret Atwood and Sylvia Plath | &nbsp; |
-| 2 | Toni Morrison: _Jazz_ | &nbsp; |
-| 3 | Toni Morrison: _Jazz_ (cont.) | &nbsp; |
-| 4 | Jane Austen: _Pride and Prejudice_ | &nbsp; |
-| 5 | Jane Austen: _Pride and Prejudice_ (cont.) | &nbsp; |
-| 6 | Virginia Woolf: _Mrs. Dalloway_ | &nbsp; |
-| 7 | Virginia Woolf: _Mrs. Dalloway_ (cont.) | Film: Daldry, Stephen. [_The Hours_](http://www.imdb.com/title/tt0274558/). 2002. |
-| 8 | Edith Wharton: _The House of Mirth_ | Trip: [The Isabella Stewart Gardner Museum](http://www.gardnermuseum.org/) |
-| 9 | Edith Wharton: _The House of Mirth_ (cont.) | Film: Davies, Terence. [_The House of Mirth_](http://www.imdb.com/title/tt0200720/). 2000. |
-| 10 | Sheri Reynolds: _The Rapture of Canaan_ | &nbsp; |
-| 11 | Charlotte Brontë: _Jane Eyre_ | &nbsp; |
-| 12 | Charlotte Brontë: _Jane Eyre_ (cont.) | &nbsp; |
-| 13 | Alice Walker: _The Color Purple_ | Film: Spielberg, Steven. [_The Color Purple_](http://www.imdb.com/title/tt0088939/). 1985. |
-| 14 | Sylvia Plath: _The Bell Jar_ | Trip: The Boston Public Gardens 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+EVENTS\*
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Set up, Poetry by Margaret Atwood and Sylvia Plath
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Toni Morrison: _Jazz_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Toni Morrison: _Jazz_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Jane Austen: _Pride and Prejudice_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Jane Austen: _Pride and Prejudice_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Virginia Woolf: _Mrs. Dalloway_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Virginia Woolf: _Mrs. Dalloway_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Film: Daldry, Stephen. [_The Hours_](http://www.imdb.com/title/tt0274558/). 2002.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Edith Wharton: _The House of Mirth_
+{{< tdclose >}}
+{{< tdopen >}}
+Trip: [The Isabella Stewart Gardner Museum](http://www.gardnermuseum.org/)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Edith Wharton: _The House of Mirth_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Film: Davies, Terence. [_The House of Mirth_](http://www.imdb.com/title/tt0200720/). 2000.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Sheri Reynolds: _The Rapture of Canaan_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Charlotte Brontë: _Jane Eyre_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Charlotte Brontë: _Jane Eyre_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Alice Walker: _The Color Purple_
+{{< tdclose >}}
+{{< tdopen >}}
+Film: Spielberg, Steven. [_The Color Purple_](http://www.imdb.com/title/tt0088939/). 1985.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Sylvia Plath: _The Bell Jar_
+{{< tdclose >}}
+{{< tdopen >}}
+Trip: The Boston Public Gardens
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \* These events were chosen and voted on by the students. Films were viewed at additional meetings outside of class.
